@@ -2,6 +2,8 @@
 
 -   📝 Portfolio - [link](https://kee111.github.io/portfolio/)
 
+作成中…
+
 <br>
 
 ## 📚Learning
